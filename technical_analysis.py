@@ -672,7 +672,7 @@ def main():
     # 페이지 설정
     st.set_page_config(
         page_title="AI-Powered Technical Analysis Dashboard",
-        page_icon="📈",
+        page_icon="favicon.svg",
         layout="wide"
     )
     st.title("AI-Powered Technical Stock Analysis Dashboard")
